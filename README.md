@@ -2,7 +2,7 @@
 
 Subdomain enumeration tool using [crt.name](https://crt.name).
 
-I made this because [crt.sh](https://crt.sh) keeps throwing `503` errors for me, so this uses the `crt.name` API instead.
+I made this because [crt.sh](https://crt.sh) keeps throwing `502` errors for me, so this uses the `crt.name` API instead.
 
 ## Features
 
